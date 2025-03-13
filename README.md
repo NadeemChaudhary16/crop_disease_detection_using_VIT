@@ -1,4 +1,4 @@
-# Image-Classification-Using-Vision-transformer
+# Crop-Disease-Detection-Using-Vision-transformer
 
 ### Steps to follow:
 
